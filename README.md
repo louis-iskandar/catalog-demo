@@ -1,4 +1,8 @@
 # README
+@Author: Louis Iskandar (07.12.2024)
+
+Arbeitsaufwand: 10 Stunden inklusive Frontend
+
 
 ## Projektbeschreibung
 
