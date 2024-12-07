@@ -226,6 +226,7 @@ Bitte nutzen Sie diese Datei für den Import.
 In einem ordnungsgemäßen Entwicklungsprozess schreibe ich immer Tests für jede Klasse sowie für alle zusammenarbeitenden Klassen oder den gesamten Spring Application Context. Dabei benutze ich in den meisten Fällen **Mockito** für das Mocking.
 
 In diesem Projekt war die Zeit jedoch leider begrenzt, sodass ich keine Tests schreiben konnte. Falls Zeit zur Verfügung steht, werde ich vollständige Unit-Tests mit einer Testabdeckung von über 90% erstellen. Diese Abdeckung überprüfe ich in der Regel mit der **IntelliJ Coverage**-Funktion.
+
 ---
 
 ## Dokumentation der REST API
